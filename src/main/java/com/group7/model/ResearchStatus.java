@@ -1,0 +1,37 @@
+package com.group7.model;
+
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name = "research_status")
+public class ResearchStatus {
+
+    @Id
+    @Column(name = "status_id")
+    private Integer statusId;
+
+    @Column(name = "status_name")
+    private String statusName;
+
+    public ResearchStatus() {
+    }
+
+    public Integer getStatusId() {
+        return statusId;
+    }
+
+    public void setStatusId(Integer statusId) {
+        this.statusId = statusId;
+    }
+
+    public String getStatusName() {
+        return statusName;
+    }
+
+    public void setStatusName(String statusName) {
+        this.statusName = statusName;
+    }
+}
