@@ -211,26 +211,3 @@ Suggested presentation contents:
 
 ## 12. References
 
-Docker, Inc. (n.d.). *Docker documentation*. https://docs.docker.com/
-
-Docker, Inc. (n.d.). *Dockerfile reference*. https://docs.docker.com/reference/dockerfile/
-
-GitHub. (n.d.). *GitHub documentation*. https://docs.github.com/
-
-Hibernate. (n.d.). *Hibernate ORM documentation*. https://hibernate.org/orm/documentation/
-
-Oracle. (n.d.). *Java documentation*. https://docs.oracle.com/en/java/
-
-Postman. (n.d.). *Postman documentation*. https://learning.postman.com/docs/
-
-PostgreSQL Global Development Group. (n.d.). *PostgreSQL documentation*. https://www.postgresql.org/docs/
-
-The Apache Software Foundation. (n.d.). *Maven documentation*. https://maven.apache.org/guides/
-
-Eclipse Foundation. (n.d.). *Jakarta Persistence*. https://jakarta.ee/specifications/persistence/
-
-The Spring Team. (n.d.). *Spring Boot reference documentation*. https://docs.spring.io/spring-boot/
-
-The Spring Team. (n.d.). *Building a RESTful web service*. https://spring.io/guides/gs/rest-service/
-
-Fielding, R., Nottingham, M., & Reschke, J. (2022). *HTTP semantics* (RFC 9110). RFC Editor. https://www.rfc-editor.org/rfc/rfc9110
